@@ -1,8 +1,7 @@
 # kakaoAutoMacro
 <html>
   <body>
-    <h1>프로그램파일을 업로드 되어있습니다.</h1>
-    <h1>-------CODE--------</h1>
+    <h1>프로그램파일은 업로드 되어있습니다.</h1>
     <h3>-------main--------<br></h3>
     <img src="./githubMacro_img/main.png"><br>
     <h3>-------Automatic----<br></h3>
