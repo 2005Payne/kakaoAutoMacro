@@ -5,7 +5,15 @@
     아래 영상에서 로그아웃 하고 이후에 움직이는 것은 오늘 급식이 맞는지 스크래핑제대로 한게 맞은지 확인을 위해서
     제가 움직인 것입니다.<br><br><br>
     <a href="https://user-images.githubusercontent.com/88232976/164607475-e88feab9-2db1-4923-96fe-394171416657.mp4">실행영상보러가기</a>
-    ![image](https://user-images.githubusercontent.com/88232976/164614572-ec1d5c86-6d48-4fdf-9427-00fda8dedfdd.png)
+    
+    <br>
+    -------CODE--------<br>
+    -------main--------<br>
+    <img src="./githubMacro_img/main.png"><br>
+    -------Automatic----<br>
+    <img src="./githubMacro_img/Automatic.png"><br>
+    -------scraping-----<br>
+    <img src="./githubMacro_img/scraping.png">
 
   </body>
 </html>
