@@ -5,6 +5,8 @@
     아래 영상에서 로그아웃 하고 이후에 움직이는 것은 오늘 급식이 맞는지 스크래핑제대로 한게 맞은지 확인을 위해서
     제가 움직인 것입니다.<br>
     <a href="https://user-images.githubusercontent.com/88232976/164607475-e88feab9-2db1-4923-96fe-394171416657.mp4">실행영상보러가기</a>
+    ![image](https://user-images.githubusercontent.com/88232976/164611194-a480e501-729b-4d04-a19b-f3bb9086a471.png)
+
   </body>
 </html>
 
