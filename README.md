@@ -6,8 +6,9 @@
     제가 움직인 것입니다.<br>
     <a href="https://user-images.githubusercontent.com/88232976/164607475-e88feab9-2db1-4923-96fe-394171416657.mp4">실행영상보러가기</a>
     코드보기<br>
-    --------main---------<br>
-    ![image](https://user-images.githubusercontent.com/88232976/164608398-53ea3d08-0197-438a-951e-bcfc8e703f14.png)
+    --------main---------
+    ![image](https://user-images.githubusercontent.com/88232976/164608622-5e9d4271-717b-49ae-a18f-b8aecfebde11.png)
+
 
     <br>
     --------스크래핑---------<br>
