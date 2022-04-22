@@ -7,7 +7,44 @@
     <a href="https://user-images.githubusercontent.com/88232976/164607475-e88feab9-2db1-4923-96fe-394171416657.mp4">실행영상보러가기</a>
     코드보기<br>
     --------main---------
-    ![image](https://user-images.githubusercontent.com/88232976/164608622-5e9d4271-717b-49ae-a18f-b8aecfebde11.png)
+    <python>
+    from datetime import datetime
+from os import system
+from Automatic import Macro
+from scraping import webScraping
+import time
+import sys
+#pip install pillow
+#pip install requests
+#pip install BeautifulSoup
+#pip install bs4
+#pip install pyautogui
+#pip install pyperclip
+#pip install pyinstaller
+def openfile(mode,text):
+    with open("filemode.p","{}".format(mode)) as f:
+        if mode=='w':
+            f.write(text)
+        elif mode=='r':
+            return f.read()
+
+setTime=840
+
+mode=openfile('r','')
+print("매크로 실행중에는 마우스포인터가 보이지 않습니다. 안내에 따라주세요")
+while(True):
+    nowtime=datetime.now().hour*100+datetime.now().minute
+    if(nowtime>=setTime and openfile("r",'')=='0'):
+        print("매크로 실행 마우스를 건드리지 마세요")
+        Macro.kakaoMacro(webScraping(),"박재우")
+        openfile("w",'1')
+        sys.exit()
+    elif(nowtime<setTime and openfile("r",''
+    )=="1"):
+        openfile("w",'0')
+        print("파일 초기화")
+        time.sleep(1)
+    </python>
 
 
     <br>
