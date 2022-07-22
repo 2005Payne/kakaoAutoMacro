@@ -12,6 +12,7 @@
     아래 영상에서 로그아웃 하고 이후에 움직이는 것은 오늘 급식이 맞는지 스크래핑이 정상작동 확인을 위해서
     매크로가 아닌 제가 네이버에 성일정보고급식을 검색한 것입니다.<br>
     <a href="https://user-images.githubusercontent.com/88232976/164607475-e88feab9-2db1-4923-96fe-394171416657.mp4">실행영상보러가기</a>
+    <a href="https://open.kakao.com/o/gi9uU24d">급식 알림(카카오톡 오픈채팅방)</a>
   </body>
 </html>
 
